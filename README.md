@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @So-Lamp
+- 👋 Hi, I’m @AlphaSolo
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 📫 How to reach me  solamp6@gmail.com
