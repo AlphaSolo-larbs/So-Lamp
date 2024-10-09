@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlphaSolo
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in data and artificial intelligence
+- 🌱 I’m currently learning data analytics
 - 📫 How to reach me  solamp6@gmail.com
 
 <!---
